@@ -1,6 +1,6 @@
 # cs2-vip-tag-change
 > [!IMPORTANT]
-> In progress! 
+> In progress!<br/>
 > My first ever plugin for CS2<br/>
 > It doesn't save tags on reconnect, map change, server restart etc.
 
