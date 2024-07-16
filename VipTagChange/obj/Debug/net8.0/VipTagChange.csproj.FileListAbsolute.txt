@@ -1,0 +1,12 @@
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\bin\Debug\net8.0\VipTagChange.deps.json
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\bin\Debug\net8.0\VipTagChange.dll
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\bin\Debug\net8.0\VipTagChange.pdb
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\VipTagChange.csproj.AssemblyReference.cache
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\VipTagChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\VipTagChange.AssemblyInfoInputs.cache
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\VipTagChange.AssemblyInfo.cs
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\VipTagChange.csproj.CoreCompileInputs.cache
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\VipTagChange.dll
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\refint\VipTagChange.dll
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\VipTagChange.pdb
+C:\Users\letar\Documents\GitHub\cs2-vip-tag-change\VipTagChange\obj\Debug\net8.0\ref\VipTagChange.dll

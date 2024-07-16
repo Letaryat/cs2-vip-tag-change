@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldPlugin", "HelloWorldPlugin\HelloWorldPlugin.csproj", "{14EFE322-4773-49C5-9526-6A035C50EE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14EFE322-4773-49C5-9526-6A035C50EE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EFE322-4773-49C5-9526-6A035C50EE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EFE322-4773-49C5-9526-6A035C50EE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EFE322-4773-49C5-9526-6A035C50EE52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A5BF030-8E64-4520-B01C-4ECC44298BA8}
+	EndGlobalSection
+EndGlobal
